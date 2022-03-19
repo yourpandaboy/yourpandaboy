@@ -9,7 +9,7 @@ I am a Data Scientist.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourpandaboy&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3sty&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourpandaboy&layout=compact&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
