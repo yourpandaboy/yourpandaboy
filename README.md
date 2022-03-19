@@ -1,4 +1,4 @@
-![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/banner.png)
+![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/banners.png)
 
 # Hi there 👋, I'm Norty.
 I am a Data Scientist. 
