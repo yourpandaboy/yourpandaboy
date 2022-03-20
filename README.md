@@ -1,6 +1,6 @@
 ![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/bannersm.png)
 
-# Hi there 👋, I'm Norty.🤗
+# Hi there 👋, I'm Norty. 🤗
 I am a Data Scientist with background in the Medical and Education fields. 
 I value teamwork and communication! Always down to grab some coffee!☕️ 
 </br>
