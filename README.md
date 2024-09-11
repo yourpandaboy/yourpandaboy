@@ -1,8 +1,8 @@
 ![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/bannersm.png)
 
 # Hi there 👋, I'm Norty. 🤗
-I am passionate about Data and Mobile development with background in the Medical and Education fields. 
-Currently working as a Software Engineer.
+I am passionate about Data and Mobile development with background in the Medical and Education fields. </br>
+Currently working as a Software Engineer.</br>
 I value teamwork and communication! Always down to grab some coffee!☕️ </br>
 I am currently working on a charity project to help people in emerging countries to find jobs.
 </br>
