@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Norty. 🤗
 I am passionate about Data and Mobile development with background in the Medical and Education fields. 
 Currently working as a Software Engineer.
-I value teamwork and communication! Always down to grab some coffee!☕️ 
+I value teamwork and communication! Always down to grab some coffee!☕️ </br>
 I am currently working on a charity project to help people in emerging countries to find jobs.
 </br>
 <h3 align="left">Languages and Tools:</h3>
