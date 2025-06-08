@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Norty. 🤗
-I'm a mobile engineer with background in Data Science, Education and Medical field. With 3+ years of experience building Flutter apps, integrating IoT devices, and collaborating across backend and QA teams. </br>
+I'm a Mobile Engineer with background in Data Science, Education and Medical field. With 3+ years of experience building Flutter apps, integrating IoT devices, and collaborating across backend and QA teams. </br>
 I value teamwork and communication! Always down to grab some coffee!☕️ </br>
 I am currently working on a charity project to help people in emerging countries to find jobs.
 </br>
