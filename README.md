@@ -1,12 +1,9 @@
-![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/bannersm.png)
-
 # Hi there 👋, I'm Norty. 🤗
 I'm a mobile engineer with background in Data Science, Education and Medical field. With 3+ years of experience building Flutter apps, integrating IoT devices, and collaborating across backend and QA teams. </br>
 I value teamwork and communication! Always down to grab some coffee!☕️ </br>
 I am currently working on a charity project to help people in emerging countries to find jobs.
 </br>
-<h3 align="left">Languages and Tools:</h3>
-## 🔧 Professional Contributions (in GitLab)
+<h3 align="left">🔧 Professional Contributions:</h3>
 
 Many of my contributions are in **private GitLab repositories** at my company, but here's what I've worked on:
 
