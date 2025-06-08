@@ -1,18 +1,21 @@
 ![I am a designer, developer, content creator and a teacher!](https://github.com/yourpandaboy/yourpandaboy/blob/main/bannersm.png)
 
 # Hi there 👋, I'm Norty. 🤗
-I am passionate about Data and Mobile development with background in the Medical and Education fields. </br>
-Currently working as a Software Engineer.</br>
+I'm a mobile engineer with background in Data Science, Education and Medical field. With 3+ years of experience building Flutter apps, integrating IoT devices, and collaborating across backend and QA teams. </br>
 I value teamwork and communication! Always down to grab some coffee!☕️ </br>
 I am currently working on a charity project to help people in emerging countries to find jobs.
 </br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/stable/#" target="_blank"> <img src="https://github.com/yourpandaboy/yourpandaboy/blob/main/256px-Scikit_learn_logo_small.svg.png" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://github.com/yourpandaboy/yourpandaboy/blob/main/seaborn.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://github.com/yourpandaboy/yourpandaboy/blob/main/matplotlib.png" alt="matplotlib" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/yourpandaboy/yourpandaboy/blob/main/pandas.png" alt="react" width="40" height="40"/> </a>  <a href="https://scipy.org/" target="_blank"> <img src="https://github.com/yourpandaboy/yourpandaboy/blob/main/scipy.png" alt="xd" width="40" height="40"/> </a> </p>
+## 🔧 Professional Contributions (in GitLab)
 
+Many of my contributions are in **private GitLab repositories** at my company, but here's what I've worked on:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourpandaboy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourpandaboy&layout=compact&theme=tokyonight)
+- 🏢 **Company:** Docomap (Japan)
+- 🧑‍💻 **Role:** Software Engineer
+- 💻 **Tech:** Dart, Flutter, Firebase, Riverpod, Bloc, IoT, Clean Architecture, Typescript, PHP, Laravel, Kotlin
+- 📱 Developed and maintained 6 mobile apps and 1 desktop app
+- 📊 Integrated real-time Bluetooth sensors (thermometers, tachograph, tire pressure, breathalyzer)
+- 🧪 Helped QA team with documentation and onboarding
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
